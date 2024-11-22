@@ -1,0 +1,11 @@
+This file provides the list of fruits:
+1. Apple
+2. Banana
+3. Cantaloupe
+4. Dragonfruit
+5. Grapefruit
+6. Grapes
+7. Kiwi
+8. Guava
+9. Blueberries
+10. Raspberries
